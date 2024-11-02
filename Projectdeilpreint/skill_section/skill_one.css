@@ -1,0 +1,41 @@
+.skill-section{
+    font-family: sans-serif;
+    color: var(--Carbon-fiber);
+}
+
+.skill-section__container{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.skill-section__place{
+    padding-top: 106px;
+    padding-bottom: 42px;
+    padding-left: 24px;
+    text-align: center;
+}
+
+.skill-section__container h3{
+    font-size: 27px;
+    font-weight: 600;
+}
+
+.skill-section__container img{
+    width: 124px;
+    height: 124px;
+    align-items: auto;
+}
+
+.skill-section__container p{
+    font-weight: 400;
+    font-size: 17px;
+    line-height: 27px;
+    text-align: center;
+}
+
+.skill-section_product-design{
+    font-size: 27px;
+    text-align: center;
+}
+

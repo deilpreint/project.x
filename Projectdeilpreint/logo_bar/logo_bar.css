@@ -1,0 +1,29 @@
+.logo-bar__container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.Google_bar{
+    padding-top: 46px;
+    padding-bottom: 46px;
+}
+
+.Nike_bar{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.Samsung_bar{
+    padding-top: 56px;
+    padding-bottom: 56px ;
+}
+
+.Apple_bar{
+    padding-top: 42px;
+    padding-bottom: 42px;
+}
+
+.Adidas_bar{
+    padding-top: 43px;
+    padding-bottom: 43px;
+}
